@@ -11,9 +11,6 @@
 
 
 
-## 🔗 联系我
-
-- 📧 Email: lesopio@foxmail.com
-- 🌐 [个人网站](https://www.luolen.cfd)
+## 📧 Email: lesop@foxmail.com
 
 
