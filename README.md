@@ -9,11 +9,7 @@
 
 ---
 
-## 📈 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
 
 ## 🔗 联系我
 
