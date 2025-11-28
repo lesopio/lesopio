@@ -5,7 +5,7 @@
 - **框架与工具**: TensorFlow, PyTorch, React, Node.js
 - **数据库**: MySQL
 - **机器学习与人工智能**: 监督学习、深度学习、强化学习
-- **开发工具**: Git, Docker, VSCode, Visual Studio
+- **开发工具**: VSCode, Visual Studio
 
 ---
 
