@@ -1,16 +1,29 @@
-## Hi there 👋
+你好呀！我是 lesopio，专注于计算机相关技术的研究。
+---
 
-<!--
-**lesopio/lesopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2 style="background: linear-gradient(130deg, #f6d8deff, #f4a7c1); padding: 20px; border-radius: 10px; color: #c57373ff;"></h2>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 我的技能
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **编程语言**: Python, Java, C++, SQL
+- **框架与工具**: TensorFlow, PyTorch, React, Node.js
+- **数据库**: MySQL
+- **机器学习与人工智能**: 监督学习、深度学习、强化学习
+- **开发工具**: Git, Docker, VSCode, Visual Studio
+
+---
+
+## 📈 GitHub 统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🔗 联系我
+
+- 📧 Email: lesopio@foxmail.com
+- 🌐 [个人网站](https://www.luolen.cfd)
+
+
