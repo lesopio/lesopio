@@ -1,11 +1,5 @@
 你好呀！我是 lesopio，专注于计算机相关技术的研究。
----
 
-<div align="center">
-  <h2 style="background: linear-gradient(130deg, #f6d8deff, #f4a7c1); padding: 20px; border-radius: 10px; color: #c57373ff;"></h2>
-</div>
-
-## 🚀 我的技能
 
 - **编程语言**: Python, Java, C++, SQL
 - **框架与工具**: TensorFlow, PyTorch, React, Node.js
