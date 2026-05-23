@@ -182,8 +182,6 @@ A personal AI / Todo / digital-life experiment that explores how AI tools can be
 
 <div align="center">
   
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesopio&layout=compact&hide_border=true&bg_color=F7F3EA&title_color=2F3A3D&text_color=5E6E73" />
-
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesopio&bg_color=F7F3EA&color=5E6E73&line=6F7F68&point=A7B6C2&area=true&hide_border=true" />
