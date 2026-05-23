@@ -32,7 +32,8 @@ My interest lies in transforming scattered and unstructured information into reu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesopio&layout=donut&hide_border=true&bg_color=F7F3EA&title_color=2F3A3D&text_color=5E6E73&icon_color=6F7F68&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesopio&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lesopio&theme=github" />
 
 </div>
 
