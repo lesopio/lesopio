@@ -28,6 +28,13 @@ I am **lesopio / bluebattery**, currently interested in **G-RAG, knowledge base 
 My interest lies in transforming scattered and unstructured information into reusable knowledge that can be searched, analyzed, and modeled.
 
 ---
+## Language Statistics / 语言统计
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesopio&layout=donut&hide_border=true&bg_color=F7F3EA&title_color=2F3A3D&text_color=5E6E73&icon_color=6F7F68&langs_count=8" />
+
+</div>
 
 ## Research Interests / 研究兴趣
 
