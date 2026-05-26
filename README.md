@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F3EA,35:D8DEE9,70:A7B6C2,100:6F7F68&height=180&section=header&text=lesopio%20%7C%20bluebattery&fontSize=42&fontColor=2F3A3D&fontAlignY=42&desc=GNN%20%C2%B7%20Android%20Designer%20%C2%B7%20LLM%20&descSize=15&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F3EA,35:D8DEE9,70:A7B6C2,100:6F7F68&height=180&section=header&text=lesopio%20%7C%20bluebattery&fontSize=42&fontColor=2F3A3D&fontAlignY=42&desc=GNN%20%C2%B7%20Android%20%20%C2%B7%20LLM%20&descSize=15&descAlignY=62" />
 
 <br />
 
@@ -8,5 +8,4 @@
 
 </div>
 
----
 
