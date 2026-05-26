@@ -197,18 +197,3 @@ A personal AI / Todo / digital-life experiment that explores how AI tools can be
 </div>
 
 ---
-
-## Notes / 记录
-
-```txt
-current focus : G-RAG, knowledge base, LLM application
-当前关注      : G-RAG、知识库、大模型应用
-
-working style : small tools, clean data, structured knowledge
-工作方式      : 小工具、干净数据、结构化知识
-
-color mood    : muted academic palette, quiet figures, soft contrast
-配色风格      : 低饱和学术配色、安静图表、柔和对比
-
-mission       : turn messy information into reusable knowledge
-小目标        : 把混乱信息变成可复用知识
