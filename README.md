@@ -10,19 +10,3 @@
 
 ---
 
-## About
-
-I am interested in **G-RAG, knowledge base construction, LLM applications, and information structuring**.
-
-I like turning scattered information into reusable knowledge.
-
----
-
-## Language Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesopio&theme=github" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lesopio&theme=github" />
-
-</div>
